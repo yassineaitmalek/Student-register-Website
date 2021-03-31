@@ -1,0 +1,70 @@
+body{
+
+    background-image: url(login_b.jpg);
+    background-size: 1920px 1080px; 
+    background-attachment: fixed;
+}
+.lg{
+
+    height: 520px;
+    width: 600px;
+    background: #fff;
+    position: absolute;
+    transform: translate(600px,25%);
+    opacity: 0.75;
+    border-radius: 30px;
+    padding: 70px 30px;
+    box-shadow: 0px 35px 50px rgba( 0, 0, 0, 0.2 );
+}
+
+.title{
+    transform: translate(0,-100px);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.title1{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: medium;
+}
+
+
+
+.avatar{
+    
+    transform: translate(285%,-125%);
+
+}
+
+p{
+    margin: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold ;
+    transform: translate(0,-90px);
+}
+
+.lg2{
+
+    height: 800px;
+    width: 600px;
+    background: #fff;
+    position: absolute;
+    transform: translate(600px,15%);
+    opacity: 0.75;
+    border-radius: 30px;
+    padding: 70px 30px;
+    box-shadow: 0px 35px 50px rgba( 0, 0, 0, 0.2 );
+}
+
+a{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;text-align: center;font-size: medium;text-decoration:none;
+}
+
+.img{
+    transform: translate(30px,0px);
+
+}
